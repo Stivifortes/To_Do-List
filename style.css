@@ -1,0 +1,50 @@
+body {
+    background-color: #8de0f5;
+    margin: 0px;
+    padding: 0px;
+}
+
+#app {
+    margin: auto;
+    margin-top: 40px;
+    background-color: #760eec;
+    border-radius: 10%;
+    width: 500px;
+    height: 400px;
+    color: #fff;
+    text-align: center;
+}
+
+h1 {
+    text-align: center;
+    padding-top: 20px;
+}
+
+input {
+    cursor: pointer;
+    width: 200px;
+    height: 20px;
+    font-size: 17pxs;
+}
+
+input:focus {
+    background-color: rgb(200, 236, 236);
+}
+button {
+    font-size: 18px;
+    cursor: pointer;
+    color: #fff;
+    background-color: darkcyan;
+    border-radius: 5%;
+}
+
+ul li {
+    margin-left: 30px;
+    text-align: left;
+    font-size: 18px;
+    font-weight: bold;
+}
+
+a {
+    color: rgb(243, 6, 17);
+}
